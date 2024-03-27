@@ -1,0 +1,2 @@
+deta
+streamlit_cookies_manager
