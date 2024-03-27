@@ -1,0 +1,23 @@
+.st-emotion-cache-10trblm {
+    background: linear-gradient(45deg, #6188ff 0%, #ff0010 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+header {visibility: hidden;}
+
+h3 {
+    font-size: 21px;
+    padding: 0.3rem 0px 0.3rem;
+}
+
+h5 {
+    padding: 0rem 0px 0.3rem;
+}
+
+[data-testid="column"] {
+    width: calc(33.3333% - 1rem) !important;
+    flex: 1 1 calc(33.3333% - 1rem) !important;
+    min-width: calc(33% - 1rem) !important;
+}
